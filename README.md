@@ -11,7 +11,7 @@
         2. https://money-legos.studydefi.com/#/
             1. Has main ethereum contract interfaces with examples (flashloans) (uniswap/aave/dydx/curve....etc)
 6. https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
-    1. Really nice vids. Speed 2x. Speaks slow, feel free to use speed multiplier
+    1. Really nice vids. He speaks slow, feel free to use the speed multiplier
     2. eg:
         1. https://www.youtube.com/watch?v=4Mm3BCyHtDY (reentrancy)
         2. https://www.youtube.com/watch?v=z_cRicXX1jI (tornado cash)
