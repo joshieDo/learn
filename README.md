@@ -1,4 +1,4 @@
-# Resources / Journey
+## Resources / Journey
 
 1. https://cryptozombies.io/
     1. Beginner to Intermediate
