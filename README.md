@@ -3,7 +3,7 @@
 1. https://cryptozombies.io/
     1. Beginner to Intermediate
     2. Skip rest
-3. [Dapptools](https://github.com/dapphub/dapptools) and/or [Foundry](https://github.com/gakonst/foundry)(!) instead of Hardhat/Truffle
+3. [Foundry](https://github.com/gakonst/foundry)(!)
 4. React/Next.js + ethers (no boilerplates)
 5. https://cryptodevhub.io/wiki/blockchain-development-tutorial
     1. Has sample contracts from Easy-to-Hard
